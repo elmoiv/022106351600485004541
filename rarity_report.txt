@@ -1,0 +1,96 @@
+Collection size: 100
+Theoretical combinations (before rules): 52,684,800
+
+Top 10 rarest:
+  #8     rank 1   score 99.5
+  #55    rank 2   score 94.9
+  #21    rank 3   score 89.4
+  #28    rank 4   score 87.5
+  #26    rank 5   score 87.3
+  #14    rank 6   score 86.2
+  #63    rank 7   score 83.3
+  #43    rank 8   score 83.3
+  #17    rank 9   score 82.3
+  #62    rank 10  score 82.1
+
+== Background ==
+Peach          24  (24.0%)
+Mint           15  (15.0%)
+Sky            14  (14.0%)
+Candy          13  (13.0%)
+Sunset         12  (12.0%)
+Lavender        8  (8.0%)
+Gold            7  (7.0%)
+Night           7  (7.0%)
+
+== Aura ==
+None           78  (78.0%)
+Sparkles        9  (9.0%)
+Glow            8  (8.0%)
+Rainbow         5  (5.0%)
+
+== Back ==
+None           72  (72.0%)
+Cape           15  (15.0%)
+Wings          13  (13.0%)
+
+== Body ==
+Brown          30  (30.0%)
+Cream          24  (24.0%)
+Pink           17  (17.0%)
+Grey           17  (17.0%)
+Gold            5  (5.0%)
+Panda           5  (5.0%)
+Galaxy          2  (2.0%)
+
+== Clothes ==
+None           33  (33.0%)
+Sweater        17  (17.0%)
+Bowtie         17  (17.0%)
+Hoodie         12  (12.0%)
+Overalls        9  (9.0%)
+Scarf           7  (7.0%)
+Tuxedo          5  (5.0%)
+
+== Eyes ==
+Dots           39  (39.0%)
+Happy          22  (22.0%)
+Wink            8  (8.0%)
+Heart           8  (8.0%)
+Sleepy          8  (8.0%)
+Sunglasses      6  (6.0%)
+Laser           5  (5.0%)
+Star            4  (4.0%)
+
+== Mouth ==
+Smile          38  (38.0%)
+Open           22  (22.0%)
+Flat           15  (15.0%)
+Grin           14  (14.0%)
+Tongue         11  (11.0%)
+
+== Face ==
+None           49  (49.0%)
+Blush          20  (20.0%)
+Freckles       12  (12.0%)
+Paint          11  (11.0%)
+Bandage         8  (8.0%)
+
+== Head ==
+None           42  (42.0%)
+Flowers        14  (14.0%)
+Beanie         13  (13.0%)
+Cap             8  (8.0%)
+Crown           7  (7.0%)
+Wizard          6  (6.0%)
+Party           6  (6.0%)
+Halo            4  (4.0%)
+
+== Items ==
+None           39  (39.0%)
+Heart          14  (14.0%)
+Balloon        12  (12.0%)
+Flower         10  (10.0%)
+Gift           10  (10.0%)
+Lollipop        8  (8.0%)
+Wand            7  (7.0%)
