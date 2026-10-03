@@ -4,7 +4,7 @@ A single-file Python pipeline that generates a collection of unique, layered PNG
 
 > **Note:** This is a sample project I built to demonstrate my generative-collection workflow. The artwork is drawn in code with Pillow, so the project runs with no external assets. It is not client work.
 
-![Preview sheet](docs/preview.png)
+![Preview sheet](preview.png)
 
 ---
 
