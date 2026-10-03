@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #53",
+  "image": "53.png",
+  "rarity_rank": 25,
+  "rarity_score": 72.58,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bowtie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    }
+  ]
+}

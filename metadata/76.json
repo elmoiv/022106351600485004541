@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #76",
+  "image": "76.png",
+  "rarity_rank": 45,
+  "rarity_score": 63.25,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Sparkles"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #75",
+  "image": "75.png",
+  "rarity_rank": 18,
+  "rarity_score": 78.26,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    }
+  ]
+}

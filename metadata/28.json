@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #28",
+  "image": "28.png",
+  "rarity_rank": 4,
+  "rarity_score": 87.53,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Sparkles"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bowtie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    }
+  ]
+}

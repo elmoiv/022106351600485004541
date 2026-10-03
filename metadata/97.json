@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #97",
+  "image": "97.png",
+  "rarity_rank": 29,
+  "rarity_score": 71.81,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Panda"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Items",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    }
+  ]
+}

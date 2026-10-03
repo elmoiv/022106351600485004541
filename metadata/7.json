@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #7",
+  "image": "7.png",
+  "rarity_rank": 20,
+  "rarity_score": 77.86,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    }
+  ]
+}

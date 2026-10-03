@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #80",
+  "image": "80.png",
+  "rarity_rank": 12,
+  "rarity_score": 81.43,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Flower"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    }
+  ]
+}

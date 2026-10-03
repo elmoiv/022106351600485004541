@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #56",
+  "image": "56.png",
+  "rarity_rank": 23,
+  "rarity_score": 75.3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Cape"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cream"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Scarf"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Items",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    }
+  ]
+}

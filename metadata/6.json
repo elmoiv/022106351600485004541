@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #6",
+  "image": "6.png",
+  "rarity_rank": 70,
+  "rarity_score": 52.33,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Flowers"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    }
+  ]
+}

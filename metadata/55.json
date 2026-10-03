@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #55",
+  "image": "55.png",
+  "rarity_rank": 2,
+  "rarity_score": 94.86,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bowtie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Epic"
+    }
+  ]
+}

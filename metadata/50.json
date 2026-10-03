@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #50",
+  "image": "50.png",
+  "rarity_rank": 21,
+  "rarity_score": 77.6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Candy"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Star"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Head",
+      "value": "None"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Heart"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    }
+  ]
+}

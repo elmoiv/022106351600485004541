@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #18",
+  "image": "18.png",
+  "rarity_rank": 17,
+  "rarity_score": 78.5,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Items",
+      "value": "Balloon"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Rare"
+    }
+  ]
+}

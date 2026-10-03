@@ -1,0 +1,52 @@
+{
+  "name": "Lucky Bear #58",
+  "image": "58.png",
+  "rarity_rank": 38,
+  "rarity_score": 66.58,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Aura",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Panda"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Sweater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dots"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grin"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Items",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity Tier",
+      "value": "Common"
+    }
+  ]
+}
