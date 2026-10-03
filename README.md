@@ -147,7 +147,3 @@ For a 10,000-image collection at 2000×2000, the same structure extends naturall
 
 - Python 3.8+
 - [Pillow](https://pypi.org/project/Pillow/)
-
-## License
-
-MIT (or add your preferred license).
